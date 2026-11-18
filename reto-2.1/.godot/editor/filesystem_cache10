@@ -1,0 +1,8 @@
+78098b89c88a74ebe8c20117b8754620
+::res://::1795025826
+ficha.md::TextFile::-1::1795043728::0::1::::<><><>0<>0<><>::
+main.gd::GDScript::1061849342235628167::1795043728::0::1::::<>Node2D<><>0<>0<><>::
+main.tscn::PackedScene::-1::1795043728::0::1::::<><><>0<>0<><>::res://main.gd<>res://player_base.tscn
+player.gd::GDScript::8956653160161278833::1795043728::0::1::::<>Node2D<><>0<>0<><>::
+player_base.tscn::PackedScene::-1::1795043728::0::1::::<><><>0<>0<><>::res://player.gd
+respuestas.md::TextFile::-1::1795043728::0::1::::<><><>0<>0<><>::
